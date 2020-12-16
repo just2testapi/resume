@@ -1,7 +1,7 @@
 # Александр Корневский
-# Profile 
+## Profile 
 I am studying at National Technical University Kharkiv Polytechnic Institute
-# Skills
+## Skills
 So far I am learning C#
-# Experience 
+## Experience 
 None
